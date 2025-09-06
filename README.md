@@ -110,7 +110,7 @@ src/
 - Kullanıcının postları kullanıcı yönetim sayfasından görüntülenebilir
 - Post oluşturma geçerli bir kullanıcı seçimi gerektirir
 
-## �� API Entegrasyonu
+## API Entegrasyonu
 
 Uygulama veri kaynağı olarak [JSONPlaceholder](https://jsonplaceholder.typicode.com/) kullanır:
 - **Kullanıcılar**: `https://jsonplaceholder.typicode.com/users`
