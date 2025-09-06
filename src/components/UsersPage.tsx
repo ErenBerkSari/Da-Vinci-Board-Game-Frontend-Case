@@ -396,7 +396,7 @@ function UsersPage() {
               {loading ? (
                 <div className="loading-container">
                   <div className="loading-spinner"></div>
-                  <p className="loading-text">Kullanıcılar yükleniyor...</p>
+                  <p className="loading-text">Yükleniyor...</p>
                 </div>
               ) : (
                 <table className="table">

@@ -136,3 +136,4 @@ Uygulama veri kaynağı olarak [JSONPlaceholder](https://jsonplaceholder.typicod
 - Bileşen tabanlı mimari
 
 ## 🚀 Canlı Demo
+https://user-post-management.netlify.app/
